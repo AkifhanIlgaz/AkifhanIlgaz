@@ -16,9 +16,9 @@ Connect with me:
 Languages and Tools:
 
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/AkifhanIlgaz/)
-[![ethereum]https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white]
-[![Rust]https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white]
-[![Javascript]https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E]
+[![ethereum]https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white](https://ethereum.org/en/)
+[![Rust]https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white](https://www.rust-lang.org)
+[![Javascript]https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://javascript.info)
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=gradient)
 
