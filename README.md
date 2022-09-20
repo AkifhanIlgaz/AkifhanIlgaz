@@ -1,9 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Mehmet Akifhan ILGAZ👋
 
-<!--
-**AkifhanIlgaz/AkifhanIlgaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi there, I'm Mehmet Akifhan ILGAZ 👋
 
 - 🔭 I’m currently working on Smart Contract Security and Blockchain
 - 🌱 I’m currently learning Solidity,EVM,Javascript,Rust,Data Structures and Algorithms
