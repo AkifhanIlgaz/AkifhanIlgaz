@@ -22,6 +22,6 @@ Languages and Tools:
 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=algolia" align="center" style="max-width: 100%;"  />
-  <img src="https://streak-stats.demolab.com/?user=AkifhanIlgaz&theme=algolia" width="49.6%" align="center" style="max-width: 100%;"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=algolia" width="49.6%" align="center" style="max-width: 100%;" " />
+  <img src="https://streak-stats.demolab.com/?user=AkifhanIlgaz&theme=algolia" width="49.6%" align="center" style="max-width: 100%;" "/> 
 </p>
