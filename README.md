@@ -22,7 +22,9 @@ Languages and Tools:
 
 
 
-<img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=algolia&hide_border=true"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 
 
 
