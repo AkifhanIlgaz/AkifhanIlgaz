@@ -22,11 +22,12 @@ Languages and Tools:
 
 
 
-<img align="left" padding-left="50px" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=algolia"/>
+<img align="left" padding-left="50px" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=algolia" />
 
 <img align="left" padding-left="50px" width="47%" src="https://streak-stats.demolab.com/?user=AkifhanIlgaz&theme=algolia" /> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&layout=compact&theme=algolia"/>
+<img align="center" padding-top="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&layout=compact&theme=algolia" />
+
 
 
 
