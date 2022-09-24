@@ -20,12 +20,11 @@ Languages and Tools:
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://javascript.info)
 
-<a href="https://github.com/AkifhanIlgaz/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkifhanIlgaz&repo=github-readme-stats&show_icons=true&theme=algolia" />
 </a>
-<a href="https://github.com/AkifhanIlgaz/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkifhanIlgaz&&layout=compact&theme=algolia" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkifhanIlgaz&repo=convoychat&layout=compact&theme=algolia" />
 </a>
-
 
 
