@@ -22,10 +22,7 @@ Languages and Tools:
 
 
 
-<p align="center">
- <img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=algolia"/>
- <img align="left" width="47%" src="https://streak-stats.demolab.com/?user=AkifhanIlgaz&theme=algolia" /> 
-</p>
+<img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=algolia&hide_border=true"/>
 
 
 
