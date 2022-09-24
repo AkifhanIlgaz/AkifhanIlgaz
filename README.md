@@ -30,5 +30,5 @@
 
 <p align="center" style="padding-left:100px;"> <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=akifhanilgaz&theme=algolia" alt="akifhanilgaz" /></p>
 
-<p margin-left="100px"> <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&layout=compact&theme=algolia" alt="akifhanilgaz" /></p>
+<p align="center"> <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&layout=compact&theme=algolia" alt="akifhanilgaz" /></p>
 
