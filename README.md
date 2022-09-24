@@ -21,10 +21,9 @@ Languages and Tools:
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://javascript.info)
 
 
+<img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=algolia&hide_border=true"/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AkifhanIlgaz&repo=github-readme-stats" />
-</a>
+<img align="left" width="47%" src="https://streak-stats.demolab.com/?user=AkifhanIlgaz&theme=algolia" /> 
 
 
 
