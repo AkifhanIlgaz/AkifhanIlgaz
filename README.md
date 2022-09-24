@@ -13,11 +13,12 @@
 
 
 
-<p align="center" > <img align="center"  src="https://github-readme-stats.vercel.app/api?username=akifhanilgaz&show_icons=true&locale=en&theme=algolia" alt="akifhanilgaz" /></p>
+<p align="center" > <img align="center"  src="https://github-readme-stats.vercel.app/api?username=akifhanilgaz&show_icons=true&locale=en&theme=algolia" alt="Readme Stats" /></p>
 
-<p align="center" style="padding-left:100px;"> <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=akifhanilgaz&theme=algolia" alt="akifhanilgaz" /></p>
+<p align="center" style="padding-left:100px;"> <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=akifhanilgaz&theme=algolia" alt="Streak Stats" /></p>
 
-<p align="center"> <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&layout=compact&theme=algolia" alt="akifhanilgaz" /></p>
+<p align="center"> <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&layout=compact&theme=algolia" alt="Most Used Languages" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akifhanilgaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akifhanilgaz" height="30" width="40" /></a>
