@@ -16,6 +16,14 @@
 <a href="https://www.leetcode.com/akifhanilgaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akifhanilgaz" height="30" width="40" /></a>
 </p>
 
+
+
+<p align="center" > <img align="center"  src="https://github-readme-stats.vercel.app/api?username=akifhanilgaz&show_icons=true&locale=en&theme=algolia" alt="akifhanilgaz" /></p>
+
+<p align="center" style="padding-left:100px;"> <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=akifhanilgaz&theme=algolia" alt="akifhanilgaz" /></p>
+
+<p align="center"> <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&layout=compact&theme=algolia" alt="akifhanilgaz" /></p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3JrCWMbnFwg6E6ibbgIxlT6LX2yPGnvea2g&usqp=CAU" alt="solidity" width="60" height="40"/> </a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="40"/> </a> 
@@ -25,10 +33,3 @@
 <a href="https://web3js.readthedocs.io/en/v1.8.0/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png?v=637807958120000000" alt="web3.js" width="40" height="40" style="padding-left: 10px;"/> </a>
 <a href="https://www.openzeppelin.com" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/O/openzeppelin-logo-2909FE553F-seeklogo.com.png" alt="OpenZeppelin" width="40" height="40" style="padding-left: 10px;" /> </a>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40" style="padding-left: 10px;" /> </a> </p>
-
-<p align="center" > <img align="center"  src="https://github-readme-stats.vercel.app/api?username=akifhanilgaz&show_icons=true&locale=en&theme=algolia" alt="akifhanilgaz" /></p>
-
-<p align="center" style="padding-left:100px;"> <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=akifhanilgaz&theme=algolia" alt="akifhanilgaz" /></p>
-
-<p align="center"> <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&layout=compact&theme=algolia" alt="akifhanilgaz" /></p>
-
