@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3JrCWMbnFwg6E6ibbgIxlT6LX2yPGnvea2g&usqp=CAU" alt="solidity" width="50" height="40"/> </a>  
+<p align="left"> <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3JrCWMbnFwg6E6ibbgIxlT6LX2yPGnvea2g&usqp=CAU" alt="solidity" width="60" height="40"/> </a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="40"/> </a> 
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQhn6ppCOciHigbTAHKRsd1xXr1YLHu-nXPHksN4ZMb-2a_aOJt_1xu05P9hOsEbiK-eM&usqp=CAU" alt="rust" width="40" height="40" background-color="white"/> </a> 
 <a href="https://hardhat.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="50" height="40"/> </a> 
