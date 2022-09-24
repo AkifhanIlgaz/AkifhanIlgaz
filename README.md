@@ -26,7 +26,7 @@
 <a href="https://www.openzeppelin.com" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/O/openzeppelin-logo-2909FE553F-seeklogo.com.png" alt="OpenZeppelin" width="40" height="40" style="padding-left: 10px;" /> </a>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width="40" height="40" style="padding-left: 10px;" /> </a> </p>
 
-<p margin-let="100px">&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=akifhanilgaz&show_icons=true&locale=en&theme=algolia" alt="akifhanilgaz" /></p>
+<p padding-left="100px">&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=akifhanilgaz&show_icons=true&locale=en&theme=algolia" alt="akifhanilgaz" /></p>
 
 <p margin-left="100px"> <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=akifhanilgaz&theme=algolia" alt="akifhanilgaz" /></p>
 
