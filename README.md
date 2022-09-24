@@ -1,32 +1,28 @@
-### Hi there, I'm Mehmet Akifhan ILGAZ👋
+<h1 align="center">Hi 👋, I'm Mehmet Akifhan Ilgaz</h1>
+<h3 align="center">A passionate smart contract security enthusiast</h3>
 
+- 🔭 I’m currently working on **Smart Contract Security**
 
-- 🔭 I’m currently working on Smart Contract Security and Blockchain
-- 🌱 I’m currently learning Solidity,EVM,Javascript,Rust,Data Structures and Algorithms
-- 🤔 I’m looking for help with having everything about Ethereum at my fingertips
-- 💬 Ask me about anything related to Ethereum,EVM,Solidity
-- 📫 How to reach me: akifhanilgaz@gmail.com
+- 🌱 I’m currently learning **Solidity,EVM,Javascript,Rust,Data Structures,Algorithms**
 
-Connect with me:
+- 💬 Ask me about **Ethereum,EVM,Solidity**
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetakifhanilgaz/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AkifhanIlgaz)
-[![stackexchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://ethereum.stackexchange.com/users/100568/mehmet-akifhan-ilgaz)
+- 📫 How to reach me **akifhanilgaz@gmail.com**
 
-Languages and Tools:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/akifhanilgaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akifhanilgaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehmetakifhanilgaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetakifhanilgaz" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akifhanilgaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akifhanilgaz" height="30" width="40" /></a>
+</p>
 
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/AkifhanIlgaz/)
-[![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://ethereum.org/en/)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
-[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://javascript.info)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akifhanilgaz&show_icons=true&locale=en" alt="akifhanilgaz" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akifhanilgaz&" alt="akifhanilgaz" /></p>
 
-<img align="left" padding-left="50px" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=algolia" />
-
-<img align="left" padding-left="50px" width="47%" src="https://streak-stats.demolab.com/?user=AkifhanIlgaz&theme=algolia" /> 
-
-<img align="center" padding-top="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&layout=compact&theme=algolia" />
 
 
 
