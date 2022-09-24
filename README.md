@@ -24,8 +24,9 @@ Languages and Tools:
 
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=algolia"/>
- <img align="right" src="https://streak-stats.demolab.com/?user=AkifhanIlgaz&theme=algolia" /> 
+ <img align="left" width="47%" src="https://streak-stats.demolab.com/?user=AkifhanIlgaz&theme=algolia" /> 
 </p>
+
 
 
 
