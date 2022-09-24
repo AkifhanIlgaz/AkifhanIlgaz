@@ -20,7 +20,7 @@ Languages and Tools:
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://javascript.info)
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=gradient)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=algolia)
 
 
 
