@@ -27,5 +27,5 @@ Languages and Tools:
  <img align="right" src="https://streak-stats.demolab.com/?user=AkifhanIlgaz&theme=algolia" /> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&layout=compact&theme=algolia&align=center)](https://github.com/AkifhanIlgaz/github-readme-stats)
+
 
