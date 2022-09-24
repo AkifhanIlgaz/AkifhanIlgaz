@@ -21,8 +21,7 @@ Languages and Tools:
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://javascript.info)
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=algolia)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AkifhanIlgaz&theme=algolia)](https://git.io/streak-stats)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=algolia&align=center)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AkifhanIlgaz&theme=algolia&align=center)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&layout=compact&theme=algolia)](https://github.com/AkifhanIlgaz/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&layout=compact&theme=algolia&align=center)](https://github.com/AkifhanIlgaz/github-readme-stats)
