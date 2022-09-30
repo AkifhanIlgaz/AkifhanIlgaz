@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mehmet Akifhan Ilgaz</h1>
-<h3 align="center">A passionate smart contract security enthusiast</h3>
 
 - 🔭 I’m currently working on **Smart Contract Security**
 
