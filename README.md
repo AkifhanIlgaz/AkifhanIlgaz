@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Akifhan Ilgaz</h1>
 
-- 🔭 I’m currently working on **Smart Contract Security**
-
-- 🌱 I’m currently learning **Solidity,EVM,Javascript,Rust,Data Structures,Algorithms**
-
-- 💬 Ask me about **Ethereum,EVM,Solidity**
-
-- 📫 How to reach me **akifhanilgaz@gmail.com**
-
-
 
 
 
