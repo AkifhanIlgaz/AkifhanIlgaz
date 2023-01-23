@@ -19,4 +19,5 @@
  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="40"/> </a> 
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQhn6ppCOciHigbTAHKRsd1xXr1YLHu-nXPHksN4ZMb-2a_aOJt_1xu05P9hOsEbiK-eM&usqp=CAU" alt="rust" width="40" height="40" background-color="white"/> </a> 
+<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0mHRf2xK-3ruTHG5SGVsMNSgVKumC2soBHV2E_GBFAg&s" alt="go" width="40" height="40" background-color="white"/> </a> 
 
