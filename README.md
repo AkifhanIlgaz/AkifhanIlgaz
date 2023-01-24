@@ -2,7 +2,7 @@
 
 
 <p align="center" > <img align="center"  src="https://github-readme-stats.vercel.app/api?username=akifhanilgaz&show_icons=true&locale=en&theme=dark-smoky" alt="Readme Stats" /></p>
-<p align="center" style="padding-left:100px;"> <img align="center"  src="https://streak-stats.demolab.com?user=AkifhanIlgaz&theme=dark-smoky" alt="Streak Stats" /></p>
+<p align="center" style="padding-left:100px;"> <img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AkifhanIlgaz&theme=dark-smoky" alt="Streak Stats" /></p>
 <p align="center"> <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&theme=dark-smoky&hide=Makefile,RenderScript,HTML,CSS,Solidity" alt="Most Used Languages" /></p>
 
 
