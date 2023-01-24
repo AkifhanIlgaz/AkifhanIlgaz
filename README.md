@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mehmet Akifhan Ilgaz</h1>
 
 
-
-
-
-<p align="center" style="padding-left:100px;"> <img align="center"  src="https://streak-stats.demolab.com?user=AkifhanIlgaz&theme=dark-smoky&hide_border=true" alt="Streak Stats" /></p>
-<p align="center"> <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&theme=algolia&hide=Makefile,RenderScript,HTML,CSS,Solidity" alt="Most Used Languages" /></p>
+<p align="center" > <img align="center"  src="https://github-readme-stats.vercel.app/api?username=akifhanilgaz&show_icons=true&locale=en&theme=tokyonight_duo" alt="Readme Stats" /></p>
+<p align="center" style="padding-left:100px;"> <img align="center"  src="https://streak-stats.demolab.com?user=AkifhanIlgaz&theme=tokyonight_duo&hide_border=true" alt="Streak Stats" /></p>
+<p align="center"> <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&theme=tokyonight_duo&hide=Makefile,RenderScript,HTML,CSS,Solidity" alt="Most Used Languages" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
