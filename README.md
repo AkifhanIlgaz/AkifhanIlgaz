@@ -15,8 +15,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="40"/> </a> 
 <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353830/gopher.svg" alt="go" width="50" height="40" background-color="white"/> </a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="40"/> </a> 
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="nodejs" width="50" height="40" background-color="white"/> </a> 
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="react" width="50" height="40" background-color="white"/> </a> 
 <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353912/ionic-icon.svg" alt="ionic" width="50" height="40" background-color="white"/> </a> 
