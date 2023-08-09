@@ -18,4 +18,7 @@
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-mEJYO1teHZ2xd7d_bp911aAoqJyPxd5ivuQNKr8mgw&s" alt="rust" width="50" height="40" background-color="white"/> </a> 
 <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353830/gopher.svg" alt="go" width="50" height="40" background-color="white"/> </a> 
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="nodejs" width="50" height="40" background-color="white"/> </a> 
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="nodejs" width="50" height="40" background-color="white"/> </a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="react" width="50" height="40" background-color="white"/> </a> 
+<a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353912/ionic-icon.svg" alt="ionic" width="50" height="40" background-color="white"/> </a> 
+<a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373595/firebase.svg" alt="firebase" width="50" height="40" background-color="white"/> </a> 
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mongo" width="50" height="40" background-color="white"/> </a> 
