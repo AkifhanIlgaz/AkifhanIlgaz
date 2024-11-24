@@ -6,24 +6,41 @@
 <p align="center"> <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&theme=angolia&hide=Makefile,RenderScript,HTML,CSS,Solidity,C%2B%2B,Cmake,Python,Swift,Kotlin,Java" alt="Most Used Languages" /></p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mehmetakifhanilgaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetakifhanilgaz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akifhanilgaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akifhanilgaz" height="30" width="40" /></a>
-</p>
+# 👋 Hi, I'm Akifhan Ilgaz
 
-<h3 align="left">Languages and Tools:</h3>
+## 🚀 About Me
+- 💻 Full Stack Developer
+- 🌱 Currently learning and building with Go, React, and TypeScript
 
-<div>
-<a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353830/gopher.svg" alt="go" width="50" height="40" background-color="white"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="40"/> </a> 
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452075/node-js.svg" alt="nodejs" width="50" height="40" background-color="white"/> </a> 
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="react" width="50" height="40" background-color="white"/> </a> 
-<a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353912/ionic-icon.svg" alt="ionic" width="50" height="40" background-color="white"/> </a> 
-<a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373595/firebase.svg" alt="firebase" width="50"
- height="40" background-color="white"/> </a> 
-<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mongo" width="50" height="40" background-color="white"/> </a> 
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-mEJYO1teHZ2xd7d_bp911aAoqJyPxd5ivuQNKr8mgw&s" alt="rust" width="50" height="40" background-color="white"/> </a> 
+## 🛠️ Tech Stack
+### Languages
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=dark)
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetakifhanilgaz)
+
+## 📌 Featured Projects
+- [Credible Mandela](https://crediblemandela.xyz/) - Home page of Mande Network
+- [Project 2](link) - Brief description
+- [Project 3](link) - Brief description
 
 
-</div>
