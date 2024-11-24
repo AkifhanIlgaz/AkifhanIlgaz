@@ -34,15 +34,12 @@
 ## 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkifhanIlgaz&theme=dark)](https://git.io/streak-stats)
 
-<!-- Optional: You can also add languages stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkifhanIlgaz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetakifhanilgaz)
 
 ## 📌 Featured Projects
 - [Credible Mandela](https://crediblemandela.xyz/) - Home page of Mande Network
-- [Project 2](link) - Brief description
-- [Project 3](link) - Brief description
+- [Pau Watcher](https://github.com/AkifhanIlgaz/pau-watcher) - A Go-based tool that monitors blockchain transactions for specific addresses and sends notifications via Telegram.
+- [Oxford 5000 API](link) - A RESTful API service providing access to Oxford 5000 word definitions, including meanings, examples, and audio pronunciations. The API features user authentication and API key management for secure access.
 
 
