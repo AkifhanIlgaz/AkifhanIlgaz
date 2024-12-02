@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 💻 Full Stack Developer
-- 🌱 Currently learning and building with C#, .NET, Go, React, TypeScript and Next.js
+- 🌱 Currently learning and building with Go, React, TypeScript, Next.js, Redis and Elastic Search
 
 ## 🛠️ Tech Stack
 ### Languages
