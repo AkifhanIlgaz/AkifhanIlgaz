@@ -38,7 +38,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetakifhanilgaz)
 
 ## 📌 Featured Projects
-- [Credible Mandela](https://crediblemandela.xyz/) - Home page of Mande Network
+- [Credible Mandela](https://tek-zeki-sensin.vercel.app/) - Home page of Mande Network
 - [Pau Watcher](https://github.com/AkifhanIlgaz/pau-watcher) - A Go-based tool that monitors blockchain transactions for specific addresses and sends notifications via Telegram.
 - [Oxford 5000 API](link) - A RESTful API service providing access to Oxford 5000 word definitions, including meanings, examples, and audio pronunciations. The API features user authentication and API key management for secure access.
 
