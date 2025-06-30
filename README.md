@@ -45,6 +45,6 @@
 ## 📌 Featured Projects
 - [Credible Mandela](https://tek-zeki-sensin.vercel.app/) - Home page of Mande Network
 - [Pau Watcher](https://github.com/AkifhanIlgaz/pau-watcher) - A Go-based tool that monitors blockchain transactions for specific addresses and sends notifications via Telegram.
-- [Oxford 5000 API](link) - A RESTful API service providing access to Oxford 5000 word definitions, including meanings, examples, and audio pronunciations. The API features user authentication and API key management for secure access.
-
+- [Oxford 5000 API]() - A RESTful API service providing access to Oxford 5000 word definitions, including meanings, examples, and audio pronunciations. The API features user authentication and API key management for secure access.
+- [Hotel Booking Backend](https://github.com/AkifhanIlgaz/hotel-api-cs) Backend implementation of the [Hotel Booking App](https://github.com/VB10/real_projects_for_developers/tree/main/projects/hotel-booking-app) 
 
