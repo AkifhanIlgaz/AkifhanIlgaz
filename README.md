@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 💻 Full Stack Developer
-- 🌱 Currently learning and building with Go, React, TypeScript, Next.js, Redis and Elastic Search
+- 🌱 Currently learning ASP.NET Core, EF Core, Redis, Elastic Search, RabbitMQ
 
 ## 🛠️ Tech Stack
 ### Languages
