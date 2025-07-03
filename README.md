@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 💻 Full Stack Developer
-- 🌱 Currently learning ASP.NET Core, EF Core, Redis, Elastic Search, RabbitMQ
+- 🌱 Currently learning ASP.NET Core, Spring Boot, Redis, Elastic Search, RabbitMQ
 
 ## 🛠️ Tech Stack
 ### Languages
