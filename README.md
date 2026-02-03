@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 💻 Full Stack Developer
-- 🌱 Currently learning ASP.NET Core, Spring Boot, Redis, Elastic Search, RabbitMQ
+- 🌱 Currently learning Redis, PostgreSQL Elastic Search, RabbitMQ
 
 ## 🛠️ Tech Stack
 ### Languages
@@ -33,16 +33,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AkifhanIlgaz&show_icons=true&theme=dark)
-
-## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkifhanIlgaz&theme=dark)](https://git.io/streak-stats)
-
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetakifhanilgaz)
 
 ## 📌 Featured Projects
+- [Zozakademi](https://www.zozakademi.com/) - YKS Deneme Analiz ve Hazırlık Yardımcı Programı
 - [Credible Mandela](https://tek-zeki-sensin.vercel.app/) - Home page of Mande Network
 - [Pau Watcher](https://github.com/AkifhanIlgaz/pau-watcher) - A Go-based tool that monitors blockchain transactions for specific addresses and sends notifications via Telegram.
 - [Oxford 5000 API]() - A RESTful API service providing access to Oxford 5000 word definitions, including meanings, examples, and audio pronunciations. The API features user authentication and API key management for secure access.
